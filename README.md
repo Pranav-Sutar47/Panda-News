@@ -37,4 +37,4 @@ Panda News is a **React.js-based** news application that fetches the latest news
 git clone https://github.com/Pranav-Sutar47/Panda-News.git
 cd PandaNews
 npm install
-npm start
+npm run dev
